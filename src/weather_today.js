@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Weather_today(props)
+function Weather(props)
 {
     return( 
         <div>
@@ -24,4 +24,4 @@ function Weather_today(props)
     )
 }
 
-export default Weather_today;
+export default Weather;
